@@ -81,10 +81,6 @@ Visit `http://localhost:5000` in your browser.
 
 ## 🙌 Credits
 
-Built by [Parvinder Singh].
+Built by Parvinder Singh.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
